@@ -6,3 +6,6 @@
 * Simple login register site using Laravel API, tokens and static Front-End HTML, CSS, JS.
 * Tokens being saved on sessionStorage for user to manage functions in the Site.
 * Postman token authorization Bearer Token.
+
+* Little issue with API routes where /user and /user/my were conflicting because Laravel was understanding ---my--- as an ID but it is actually other function.
+* Reorganized the APIS putting user/my after user/ and worked.

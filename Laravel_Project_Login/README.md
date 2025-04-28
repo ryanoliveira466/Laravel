@@ -2,7 +2,7 @@
 
 28/04/2025
 
-* Learned about tokens and Laravel sanctum middleware.
+* Learned about tokens and Laravel sanctum middleware. [https://github.com/ryanoliveira466/Laravel/blob/main/Laravel_Project_Login/1%20-%20Project_Login_Front/1%20-%20laravelLoginSanctum.txt]
 * Simple login register site using Laravel API, tokens and static Front-End HTML, CSS, JS.
 * Tokens being saved on sessionStorage for user to manage functions in the Site.
 * Postman token authorization Bearer Token.

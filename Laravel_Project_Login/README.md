@@ -2,7 +2,7 @@
 
 28/04/2025
 
-Learned about tokens and Laravel sanctum middleware.
-Simple login register site using Laravel API, tokens and static Front-End HTML, CSS, JS.
-Tokens being saved on sessionStorage for user to manage functions in the Site.
-Postman token authorization Bearer Token.
+* Learned about tokens and Laravel sanctum middleware.
+* Simple login register site using Laravel API, tokens and static Front-End HTML, CSS, JS.
+* Tokens being saved on sessionStorage for user to manage functions in the Site.
+* Postman token authorization Bearer Token.

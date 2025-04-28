@@ -8,4 +8,4 @@
 * Postman token authorization Bearer Token.
 
 * Little issue with API routes where /user and /user/my were conflicting because Laravel was understanding ---my--- as an ID but it is actually other function.
-* Reorganized the APIS putting user/my after user/ and worked.
+  Reorganized the APIS putting user/my after user/ and worked.
